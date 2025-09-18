@@ -1,3 +1,6 @@
+
+//remove the comment line "/* */"
+
 /*import java.util.*;
  public class input2{
     public static void main(String[] args) {
@@ -27,4 +30,5 @@
         float b = sc.nextFloat();
         System.out.println(a+b);
     }
+
  }
