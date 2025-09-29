@@ -1,5 +1,7 @@
 /*Conditional Problem 3
+
 You are provided with a number n.
+
 
 Your task is to return a string according to the following conditions:
 
@@ -49,4 +51,5 @@ public class ifelse6{
         System.out.println("you entered more");
     }
     }
+
 }
