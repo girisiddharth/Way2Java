@@ -37,15 +37,25 @@ import java.util.*;
 public class vp1 {
 public static void main(String[] args) {
     int input = 8;
+    
     System.out.println("8x1="+input*1);
+    
     System.out.println("8x2="+input*2);
+    
     System.out.println("8x3="+input*3);
+    
     System.out.println("8x4="+input*4);
+    
     System.out.println("8x5="+input*5);
+    
     System.out.println("8x6="+input*6);
+    
     System.out.println("8x7="+input*7);
+    
     System.out.println("8x8="+input*8);
+    
     System.out.println("8x9="+input*9);
 }   
 }
+
 
