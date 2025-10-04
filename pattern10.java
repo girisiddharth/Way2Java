@@ -9,6 +9,7 @@ Print the pattern as described above.
 Example 1
 Input:
 
+
 5
 Output:
 
@@ -39,3 +40,4 @@ public class pattern10 {
     }
     
 }
+
