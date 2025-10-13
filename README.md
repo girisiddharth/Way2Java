@@ -1,6 +1,6 @@
 # Way2Java
 Practicing java and sharing the important questions 
-#Java-Journey Java Practice Questions & Solutions
+#Java-Journey Java Practice Questions and Solutions
 
 This repository contains a collection of Java programming questions with detailed solutions. The goal is to help students, beginners to practice Java concepts and improve their problem-solving skills.
 
