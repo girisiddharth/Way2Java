@@ -1,7 +1,6 @@
 import java.util.*;
 public class functions3 {
-
-
+
     public static void swap(int a,int b){
         int c = a;
          a = b;
