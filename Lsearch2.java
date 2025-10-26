@@ -2,7 +2,7 @@ import java.util.*;
 public class Lsearch2 {
 
     public static int linearsearch(int [] arr,int target){
-        for (int idx = arr.length-1; idx >=0;idx++ ){
+        for (int idx = arr.length-1; idx >=0;idx-- ){
             if (arr[idx]==target){
                 return idx;
 
@@ -36,5 +36,6 @@ public class Lsearch2 {
     }
 
     
+
 
 
