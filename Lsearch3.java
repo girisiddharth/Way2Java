@@ -56,7 +56,7 @@ public class Lsearch3{
         for (int idx = 0;idx<arr.length;idx++){
             if (arr[idx]==x){
               num =idx;
-              System.out.println(num);               
+              System.out.println(num+1);               
             }
         }
         return num;
@@ -74,4 +74,5 @@ public static void main(String[] args) {
       int x = sc.nextInt();
        findindex(arr,x);
 }
+
 }
