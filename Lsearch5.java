@@ -51,7 +51,7 @@ The sum of all the elements of the array 1+0+(-1)+0+0 is 0, the average
         // int max = Integer.MIN_VALUE;
         
         for (int idx = 0;idx<n;idx++){
-            sum = sum+idx;
+            sum = sum+arr[idx];
             max = Math.max(arr[idx], max);
             }
             
@@ -76,4 +76,5 @@ The sum of all the elements of the array 1+0+(-1)+0+0 is 0, the average
          
 
     }
+
  }
