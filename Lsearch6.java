@@ -50,7 +50,7 @@ public class Lsearch6 {
     public static int nextstep(int arr[],int n ){
         int max = arr[0];
         int index = 0;
-           for (int idx = 0 ; idx<arr.length;idx++){
+           for (int idx = 1 ; idx<arr.length;idx++){
                if (arr[idx]>max){
                 max = arr[idx];
                 index = idx;
@@ -77,3 +77,4 @@ public static void main(String[] args) {
 }
     
     }
+
